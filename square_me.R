@@ -1,0 +1,1 @@
+square_me = function(x){x^2}
